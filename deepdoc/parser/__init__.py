@@ -14,7 +14,7 @@
 #  limitations under the License.
 #
 
-from .pdf_parser import RAGFlowPdfParser as PdfParser, PlainParser
+# from .pdf_parser import RAGFlowPdfParser as PdfParser, PlainParser
 from .docx_parser import RAGFlowDocxParser as DocxParser
 from .excel_parser import RAGFlowExcelParser as ExcelParser
 from .ppt_parser import RAGFlowPptParser as PptParser
@@ -24,8 +24,8 @@ from .markdown_parser import RAGFlowMarkdownParser as MarkdownParser
 from .txt_parser import RAGFlowTxtParser as TxtParser
 
 __all__ = [
-    "PdfParser",
-    "PlainParser",
+    # "PdfParser",
+    # "PlainParser",
     "DocxParser",
     "ExcelParser",
     "PptParser",

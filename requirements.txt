@@ -14,3 +14,14 @@ demjson3
 xpinyin
 huggingface_hub
 beartype
+
+datrie
+hanziconv
+nltk
+
+roman_numbers
+word2number
+cn2an
+onnxruntime
+pdfplumber
+
