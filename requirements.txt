@@ -1,0 +1,16 @@
+streamlit
+docx
+pandas
+openpyxl
+readability-lxml
+html_text
+chardet
+xgboost
+pypdf
+tika
+markdown
+python-docx
+demjson3
+xpinyin
+huggingface_hub
+beartype
